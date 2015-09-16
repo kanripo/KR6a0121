@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說月喻經
+#+DATE: 2015-08-30 19:32:00.159637
+#+PROPERTY: JUAN 0
